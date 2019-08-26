@@ -6,5 +6,8 @@
         "database": "moduleLoader",
         "username": "root",
         "password": ""
+    },
+    "modulesSettings":{
+        
     }
 }

@@ -1,3 +1,12 @@
 # ModuleLoader
 
-What is module loader project ?
+Ce système permet le déploiment des différents modules au sein de votre application NodeJS avec express, vous trouverez sur ce repo le serveur "Maître", là ou vous pourrez développer vos modules, ainsi que le serveur "Entité" qui pourra déployer différents modules au sein de son application
+
+## Express ?
+
+Ce système s'appuie sur express, qui va nous servir à gérér différentes "vues" (car tout le système sera tourné vers une version API, libre à vous d'adapter ce système aux vues "conventionnel")
+
+## Prérequis
+
+Pour faire fonctionner ce système, vous devrez avoir une base de données (locale ou distante) qui va nous permettre de gérer le versionning des modules
+Un fichier .sql est disponible pour vos différents tests

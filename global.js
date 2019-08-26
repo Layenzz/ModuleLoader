@@ -5,7 +5,7 @@ global.PORT = config.serverPort || 6000;
 global.DATABASE = config.database || {
     "host": "localhost",
     "database": "moduleLoader",
-    "username": "admin",
+    "username": "root",
     "password": ""
 };
 
