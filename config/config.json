@@ -1,0 +1,10 @@
+{
+    "debug": true,
+    "serverPort" : 6000,
+    "database": {
+        "host": "localhost",
+        "database": "moduleLoader",
+        "username": "root",
+        "password": ""
+    }
+}

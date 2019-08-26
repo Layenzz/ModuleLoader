@@ -1,0 +1,38 @@
+{
+  "name": "moduleloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Layenzz/ModuleLoader.git"
+  },
+  "keywords": [
+    "Module",
+    "Loader"
+  ],
+  "author": "Valentin Noel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Layenzz/ModuleLoader/issues"
+  },
+  "homepage": "https://github.com/Layenzz/ModuleLoader#readme",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "bcrypt": "^3.0.6",
+    "express": "^4.17.1",
+    "express-group-routes": "^1.1.0",
+    "fs": "0.0.1-security",
+    "javascript-obfuscator": "^0.18.1",
+    "mariadb": "^2.0.5",
+    "ncp": "^2.0.0",
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.8.10",
+    "sync-mysql": "^3.0.1"
+  }
+}
