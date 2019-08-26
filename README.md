@@ -20,5 +20,17 @@ Un fichier .sql est disponible pour vos différents tests
 Dans le dossier MasterServer, vous avez accès à plusieurs commandes:
 
 ```
-npm run start
+npm run start -> Lance le projet
+```
+```
+npm run buildModule -- [NomModule] -> Créer une version pour tout les différents clients (entity server)
+```
+```
+npm run devModule -- [NomModule] -> Créer une version de développement pour tout les différents clients (entity server en mode debug)
+```
+```
+npm run createModule -- [NomModule] -> Créer un module par défaut
+```
+```
+npm run createModule -- [NomModule] -> Créer un module par défaut
 ```

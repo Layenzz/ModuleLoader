@@ -8,8 +8,7 @@
     "start": "node app.js",
     "devModule": "node ./lib/Module/moduleCompilerDev.js",
     "buildModule": "node ./lib/Module/moduleCompiler.js",
-    "createModule": "node ./lib/Module/createModule.js",
-    "createPassword": "node ./lib/Password/createPassword.js"
+    "createModule": "node ./lib/Module/createModule.js"
   },
   "repository": {
     "type": "git",
