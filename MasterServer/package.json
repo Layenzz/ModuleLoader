@@ -4,7 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "devModule": "node ./lib/Module/moduleCompilerDev.js",
+    "buildModule": "node ./lib/Module/moduleCompiler.js",
+    "createModule": "node ./lib/Module/createModule.js",
+    "createPassword": "node ./lib/Password/createPassword.js"
   },
   "repository": {
     "type": "git",

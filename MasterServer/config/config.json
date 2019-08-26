@@ -4,8 +4,8 @@
     "database": {
         "host": "localhost",
         "database": "moduleLoader",
-        "username": "root",
-        "password": ""
+        "username": "moduleLoader",
+        "password": "moduleLoader"
     },
     "modulesSettings":{
 

@@ -1,0 +1,7 @@
+{
+	"module": {
+		"name": "testA",
+		"version": "1.0.5",
+		"apiEndpoint": "/testA"
+	}
+}
