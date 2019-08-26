@@ -1,7 +1,7 @@
 global.config = require("./config/config.json") ;
 
 global.DEBUG = config.debug || false;
-global.PORT = config.serverPort || 6000;
+global.PORT = config.serverPort || 5050;
 global.DATABASE = config.database || {
     "host": "localhost",
     "database": "moduleLoader",

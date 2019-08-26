@@ -1,6 +1,6 @@
 {
     "debug": true,
-    "serverPort" : 6000,
+    "serverPort" : 5050,
     "database": {
         "host": "localhost",
         "database": "moduleLoader",
@@ -8,6 +8,6 @@
         "password": ""
     },
     "modulesSettings":{
-        
+
     }
 }

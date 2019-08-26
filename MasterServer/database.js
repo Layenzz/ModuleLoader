@@ -1,4 +1,4 @@
-var db = global.config.databases.ciaDigital
+var db = global.DATABASE
 
 var util = require('util')
 var mysql = require('mysql')

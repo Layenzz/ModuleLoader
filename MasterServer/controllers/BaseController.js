@@ -1,6 +1,10 @@
 const child_process = require('child_process');
 var file_system = require('fs');
 
+exports.index = function(req, res){
+    res.status(200).send(global.sendResponse("API Works !"))
+}
+
 exports.modules = async function(req, res){
     let apiKey = global.addslashes(req.query.apiKey);
 
