@@ -10,3 +10,12 @@ Ce système s'appuie sur express, qui va nous servir à gérér différentes "vu
 
 Pour faire fonctionner ce système, vous devrez avoir une base de données (locale ou distante) qui va nous permettre de gérer le versionning des modules
 Un fichier .sql est disponible pour vos différents tests
+
+
+### Commandes disponible
+
+#### Serveur Maître "MasterServer"
+
+Dans le dossier MasterServer, vous avez accès à plusieurs commandes:
+
+#####npm run start
